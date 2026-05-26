@@ -1,0 +1,16 @@
+# Smart Air — Python dependencies
+# Install with:  pip install -r requirements.txt
+# Tested on Python 3.10, 3.11, 3.12
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# HTTP requests (weather download)
+requests>=2.28.0
